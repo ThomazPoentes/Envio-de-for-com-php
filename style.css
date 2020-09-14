@@ -1,0 +1,13 @@
+main, footer, .mensagem-alerta{
+    text-align: center; 
+}
+form{
+    max-width: 800px;
+    padding-top: 30px;
+    display: block;
+    margin: 0 auto;
+}
+.mensagem-alerta{
+    max-width: 500px;
+    margin: 20px auto;
+}

@@ -7,26 +7,11 @@
         <meta name="description" content="Código fonte formulario php"/>
         <meta name="keywords" content="formulario php, bootstrap, bootstrap validator"/>
         <meta name="author" content="Cristiane Faria"/>
+        <link rel="stylesheet" type="text/css" href="/style.css"
 
         <title>Cristiane Faria | Formulário PHP</title>
 
         <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.css" />
-        <style>
-            main, footer, .mensagem-alerta{
-                text-align: center; 
-            }
-            form{
-                max-width: 800px;
-                padding-top: 30px;
-                display: block;
-                margin: 0 auto;
-            }
-            .mensagem-alerta{
-                max-width: 500px;
-                margin: 20px auto;
-            }
-        </style>
-
     </head>
     <body>
         <main class="container">
